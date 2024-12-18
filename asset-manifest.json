@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/project12-NasaReact2/static/css/main.17edb0f7.css",
+    "main.js": "/project12-NasaReact2/static/js/main.14fafd20.js",
+    "static/media/content4.webp": "/project12-NasaReact2/static/media/content4.9f9f51ca1c83b1acb5f0.webp",
+    "static/media/4.jpg": "/project12-NasaReact2/static/media/4.8cc299131f9972e4376d.jpg",
+    "static/media/blue-box-space.webp": "/project12-NasaReact2/static/media/blue-box-space.f8b24f4dd10c1515cd5d.webp",
+    "static/media/6.jpg": "/project12-NasaReact2/static/media/6.74943f9c4c4712cbc719.jpg",
+    "static/media/5.jpg": "/project12-NasaReact2/static/media/5.674231d79bd9fe2f9575.jpg",
+    "static/media/2.jpg": "/project12-NasaReact2/static/media/2.ec864d9e5634f3e8fed2.jpg",
+    "static/media/content3.webp": "/project12-NasaReact2/static/media/content3.c7be062a2d9ece9677bd.webp",
+    "static/media/11.jpg": "/project12-NasaReact2/static/media/11.6727ad5f5c96a85a8795.jpg",
+    "static/media/1.jpg": "/project12-NasaReact2/static/media/1.2fefe9581f53552de638.jpg",
+    "static/media/content2.webp": "/project12-NasaReact2/static/media/content2.6eb024d10bf4c927b712.webp",
+    "static/media/red-box-space.webp": "/project12-NasaReact2/static/media/red-box-space.208f5dfef81b43e8ca5f.webp",
+    "static/media/context1.jpg": "/project12-NasaReact2/static/media/context1.86aa0761eafb6d442805.jpg",
+    "static/media/yellow-box-space.webp": "/project12-NasaReact2/static/media/yellow-box-space.b0de739735cdcda690ef.webp",
+    "static/media/pink-box-space.webp": "/project12-NasaReact2/static/media/pink-box-space.555c69d7586899ff4283.webp",
+    "index.html": "/project12-NasaReact2/index.html",
+    "main.17edb0f7.css.map": "/project12-NasaReact2/static/css/main.17edb0f7.css.map",
+    "main.14fafd20.js.map": "/project12-NasaReact2/static/js/main.14fafd20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17edb0f7.css",
+    "static/js/main.14fafd20.js"
+  ]
+}
